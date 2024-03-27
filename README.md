@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hola! 👋
 
-<!--
-**A00838521/A00838521** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Este es mi perfil, sientete libre de checar mi progreso 😁, estos son algunos datos sobre mi:
 
-Here are some ideas to get you started:
+- 🔭 Actualmente estoy trabajando en mi mismo.
+- 🌱 Estoy buscando crecer en con nuevas tecnologías.
+- 👯 Me gustaría colaborar en diferentes proyectos.
+- 🤔 Estoy en constante busqueda de ayuda para crecer.
+- 💬 Sientete libre de comunicarte conmigo.
+- 📫 Como contactarme: bruno.mega.25@gmail.com.
+- ⚡ Actualmente estoy subiendo mis archivos viejos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Happy Coding! 😄🚀
